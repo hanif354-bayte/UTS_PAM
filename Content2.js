@@ -6,7 +6,7 @@ import { AntDesign } from '@expo/vector-icons';
 const Content2=({navigation})=>{
       const time=['18:40-19:30','19:45-20:30','20:00-21:00','21:00-22:00','19:30-20-30','20:00-21:00','20:00-21:15'];  
       const prays=["Senin","Selasa","Rabu","Kamis","Jum'at","Sabtu","Minggu"];
-      const Materi =[
+      const materi =[
         'Senin : Belajar matematika, Matematika adalah ilmu tentang logika mengenai bentuk, susunan, besaran dan konsep-konsep yang berhubungan satu dengan yang lainnya dengan jumlah yang banyak dan terbagi kedalam tiga bidang, yaitu aljabar, analisis dan geometri.',
         'Selasa : Belajar fisika, Fisika adalah sains atau ilmu alam yang mempelajari materi beserta gerak dan perilakunya dalam lingkup ruang dan waktu, bersamaan dengan konsep yang berkaitan seperti energi dan gaya. Sebagai salah satu ilmu sains paling dasar, tujuan utama fisika adalah memahami bagaimana alam semesta berkerja.',
         'Rabu : Belajar kimia, Kimia (serapan dari bahasa Arab: كيمياء) adalah cabang dari ilmu fisik yang mempelajari tentang susunan, struktur, sifat, dan perubahan materi.[1][2] Ilmu kimia meliputi topik-topik seperti sifat-sifat atom, cara atom membentuk ikatan kimia untuk menghasilkan senyawa kimia, interaksi zat-zat melalui gaya antarmolekul yang menghasilkan sifat-sifat umum dari materi, dan interaksi antar zat melalui reaksi kimia untuk membentuk zat-zat yang berbeda..',
