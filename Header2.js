@@ -12,7 +12,7 @@ const Header2=(navigation)=>{
       return (
         <View className='App-Header' style={styles.Header2}>
           <View style={styles.title}>
-            <Text id='title' style={styles.title}>Materi Belajar      <FontAwesome5 name="mosque" size={24} color="black" /></Text>
+            <Text id='title' style={styles.title}>Materi Belajar      <FontAwesome5 name="school" size={24} color="black" /></Text>
           </View>
           
           <View >
