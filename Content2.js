@@ -45,25 +45,25 @@ const Content2=({navigation})=>{
           </View>
           <View style={styles.contentTime}>
             <View style={{padding:25}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[0])}} style={{padding:20}}/>
+                <Button title="Detail" color={'blue'} onPress={()=>{alert(Penjelasan[0])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[1])}} style={{padding:20}}/>
+                <Button title="Detail" color={'blue'} onPress={()=>{alert(Penjelasan[1])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[2])}} style={{padding:20}}/>
+                <Button title="Detail" color={'blue'} onPress={()=>{alert(Penjelasan[2])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[3])}} style={{padding:20}}/>
+                <Button title="Detail" color={'blue'} onPress={()=>{alert(Penjelasan[3])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[4])}} style={{padding:20}}/>
+                <Button title="Detail" color={'blue'} onPress={()=>{alert(Penjelasan[4])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[5])}} style={{padding:20}}/>
+                <Button title="Detail" color={'blue'} onPress={()=>{alert(Penjelasan[5])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[6])}} style={{padding:20}}/>
+                <Button title="Detail" color={'blue'} onPress={()=>{alert(Penjelasan[6])}} style={{padding:20}}/>
             </View>
           </View>
 
