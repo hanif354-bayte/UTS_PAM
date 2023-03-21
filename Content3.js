@@ -10,7 +10,7 @@ const Content=({navigation})=>{
   return (
 
         <View className="content-list" style={styles.Content}>
-          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2, justifyContent:'center'}}>                                   Data Pribadi</Text>
+          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2, justifyContent:'center'}}>                          Data Pribadi</Text>
           <View style={styles.contentName2}>
             <Image style={{width:200,height:200, marginBottom:40}} source={require("./assets/icon/photo.jpg")}></Image>
             <Text style={{fontSize:18}}>Hanif Putra Agusta</Text>

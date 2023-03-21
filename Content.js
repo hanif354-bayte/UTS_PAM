@@ -28,7 +28,7 @@ const Content=({navigation})=>{
   return (
 
         <View className="content-list" style={styles.Content}>
-          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2}}>   Hari                                           Waktu</Text>
+          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2}}>     Hari                                           Waktu</Text>
           <View style={styles.contentName}>
             {contentName}
           </View>
