@@ -39,31 +39,31 @@ const Content2=({navigation})=>{
   return (
 
         <View className="content-list" style={styles.Content}>
-          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2}}>      Hari                                 Penjelasan</Text>
+          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#f5ff33',marginBottom:2}}>      Hari                                 Penjelasan</Text>
           <View style={styles.contentName}>
             {contentName}
           </View>
           <View style={styles.contentTime}>
             <View style={{padding:25}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[0])}} style={{padding:20}}/>
+                <Button title="Detail" color={'#c5d121'} onPress={()=>{alert(materi[0])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[1])}} style={{padding:20}}/>
+                <Button title="Detail" color={'#c5d121'} onPress={()=>{alert(materi[1])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[2])}} style={{padding:20}}/>
+                <Button title="Detail" color={'#c5d121'} onPress={()=>{alert(materi[2])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[3])}} style={{padding:20}}/>
+                <Button title="Detail" color={'#c5d121'} onPress={()=>{alert(materi[3])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[4])}} style={{padding:20}}/>
+                <Button title="Detail" color={'#c5d121'} onPress={()=>{alert(materi[4])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[5])}} style={{padding:20}}/>
+                <Button title="Detail" color={'#c5d121'} onPress={()=>{alert(materi[5])}} style={{padding:20}}/>
             </View>
             <View style={{padding:20}}>
-                <Button title="Detail" color={'blue'} onPress={()=>{alert(materi[6])}} style={{padding:20}}/>
+                <Button title="Detail" color={'#c5d121'} onPress={()=>{alert(materi[6])}} style={{padding:20,}}/>
             </View>
           </View>
 
@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     Content:{
       display:'flex',
       flexDirection:'column',
-      backgroundColor:'#8fe6f7',
+      backgroundColor:'#72b823',
       height:1000,
     },
 

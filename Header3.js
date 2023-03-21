@@ -12,7 +12,7 @@ const Header3=(navigation)=>{
       return (
         <View className='App-Header' style={styles.Header2}>
           <View style={styles.title}>
-            <Text id='title' style={styles.title}>Profile Mahasiswa     <FontAwesome5 name="user-circle" size={24} color="black" /></Text>
+            <Text id='title' style={styles.title}>Profile Mahasiswa </Text>
           </View>
           
           <View >
@@ -33,7 +33,7 @@ export default Header3;
 const styles = StyleSheet.create({
 
   Header2:{
-    backgroundColor: '#99c2ff',
+    backgroundColor: '#8ef716',
     flexdirection: 'row',
     fontsize: 'large',
     fontweight: 'bolder',

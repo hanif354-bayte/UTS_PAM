@@ -33,7 +33,7 @@ export default Header2;
 const styles = StyleSheet.create({
 
   Header2:{
-    backgroundColor: '#99c2ff',
+    backgroundColor: '#8ef716',
     flexdirection: 'row',
     fontsize: 'large',
     fontweight: 'bolder',
