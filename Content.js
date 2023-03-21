@@ -4,8 +4,8 @@ import { AntDesign } from '@expo/vector-icons';
 
 
 const Content=({navigation})=>{
-      const time=['04:46','12:06','15:16','18:09','19:18'];  
-      const prays=["Subuh","Dzuhur","Ashar","Maghrib","Isya"];
+      const time=['18:40-19:30','19:45-20:30','20:00-21:00','21:00-22:00','19:30-20-30','20:00-21:00','00:00'];  
+      const prays=["Senin","Selasa","Rabu","Kamis","Jum'at","Sabtu","Minggu"];
     
       var contentName=[]
       var contentTime=[]

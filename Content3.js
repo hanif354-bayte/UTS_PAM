@@ -13,12 +13,12 @@ const Content=({navigation})=>{
           <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2, justifyContent:'center'}}>                                   Data Pribadi</Text>
           <View style={styles.contentName2}>
             <Image style={{width:200,height:200, marginBottom:40}} source={require("./assets/icon/photo.jpg")}></Image>
-            <Text style={{fontSize:18}}>Muhammad Hadi Arsa</Text>
-            <Text style={{fontSize:18}}>120140150</Text>
+            <Text style={{fontSize:18}}>Hanif Putra Agusta</Text>
+            <Text style={{fontSize:18}}>120140120</Text>
             <Text style={{fontSize:18}}>Teknik Informatika</Text>
             <Text style={{fontSize:18}}>2020</Text>
-            <Text style={{fontSize:18}}>085379544XXX</Text>
-            <Text style={{fontSize:18}}>Jl. Endro Suratmin GG. Waru Sukarame</Text>
+            <Text style={{fontSize:18}}>082280785486</Text>
+            <Text style={{fontSize:18}}>Jl. Pulau Bawean GG. Titilas no.62</Text>
           </View>
         </View>
   
