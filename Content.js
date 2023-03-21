@@ -4,7 +4,7 @@ import { AntDesign } from '@expo/vector-icons';
 
 
 const Content=({navigation})=>{
-      const time=['18:40-19:30','19:45-20:30','20:00-21:00','21:00-22:00','19:30-20-30','20:00-21:00','00:00'];  
+      const time=['18:40','19:45','20:00','21:00','19:30','20:00','21:00'];  
       const prays=["Senin","Selasa","Rabu","Kamis","Jum'at","Sabtu","Minggu"];
     
       var contentName=[]
@@ -28,7 +28,7 @@ const Content=({navigation})=>{
   return (
 
         <View className="content-list" style={styles.Content}>
-          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2}}>   Sholat                                           Waktu</Text>
+          <Text style={{fontWeight:'bold',fontSize:22,backgroundColor:'#3366ff',marginBottom:2}}>   Hari                                           Waktu</Text>
           <View style={styles.contentName}>
             {contentName}
           </View>
