@@ -3,12 +3,12 @@ Nama Aplikasi
 link google document : https://docs.google.com/document/d/1mp_013vig8kDhI6FZUI1IwRTcvz_LdOg0r9pHm08fR4/edit?usp=sharing
 -------------
 
-Shalat.Plus
+Jadwal Belajar
 
 Deskripsi Aplikasi
 ------------------
 
-Aplikasi Ini berisi dua halaman utama yang berisi pengingat dan juga informasi keutamaan ibadah sholat 5 waktu
+Aplikasi Ini berisi dua halaman utama yang berisi pengingat waktu belajar dan juga informasi materi pelajaran apa saja yang haru diperdalam.
 
 
 Daftar Package yang digunakan
