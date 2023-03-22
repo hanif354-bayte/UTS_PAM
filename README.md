@@ -1,9 +1,11 @@
 Nama Aplikasi
 
-link google document : https://docs.google.com/document/d/1mp_013vig8kDhI6FZUI1IwRTcvz_LdOg0r9pHm08fR4/edit?usp=sharing
--------------
+
 
 Jadwal Belajar
+
+link google document : https://docs.google.com/document/d/1mp_013vig8kDhI6FZUI1IwRTcvz_LdOg0r9pHm08fR4/edit?usp=sharing
+-------------
 
 Deskripsi Aplikasi
 ------------------
